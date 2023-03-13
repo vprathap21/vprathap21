@@ -1,6 +1,6 @@
 ## Hi, I am Prathap! Glad to see you here! 👋
 
-I am a tech enthusiast & an open-source person who is currently learning cloud native technologies. I am always open to collaborate on projects. You can connect with me here:
+I am a tech enthusiast & an open-source person who is currently learning devobs technologies. I am always open to collaborate on projects. You can connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Prathap-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathap-v-751566249/)](https://www.linkedin.com/in/prathap-v-751566249/)
 [![Gmail Badge](https://img.shields.io/badge/-211501064@rajalakshmi.ed.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:211501064@rajalakshmi.edu.in)](mailto:211501064@rajalakshmi.edu.in)
