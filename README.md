@@ -1,15 +1,39 @@
-<h1 align="center">Hi 👋, I'm pratahp</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## Hi, I am Prathap! Glad to see you here! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prathapliked in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathapliked in" height="30" width="40" /></a>
-</p>
+I am a self taught Full Stack Developer. I am a tech enthusiast & an open-source person who is currently learning cloud native technologies. I am always open to collaborate on projects. You can connect with me here:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/gsdgsdgsd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gsdgsdgsd" /></a><a href="https://ko-fi.com/prathp"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="prathp" /></a></p><br><br>
+[![Linkedin Badge](https://img.shields.io/badge/-Prathap-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar12/)](https://www.linkedin.com/in/abhishek-kumar12/)
+[![Gmail Badge](https://img.shields.io/badge/-211501064@rajalakshmi.ed.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:211501064@rajalakshmi.edu.in)](mailto:211501064@rajalakshmi.edu.in)
+[![Twitter Badge](https://img.shields.io/badge/-Prathap-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/AbhishekKtwt)](https://twitter.com/vprathap585)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratahp21&show_icons=true&locale=en&layout=compact" alt="pratahp21" /></p>
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
+
+
+
+
+## ⚡ Technologies
+
+### Language :
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+### Libraries & Framework :
+
+
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+
+### Additional Tools:
+
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+
