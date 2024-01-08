@@ -1,4 +1,4 @@
-# Hi there , :wave: I'm Robin.
+# Hi there , :wave: I'm Prathap.
 
 ## About me:
 
@@ -19,7 +19,6 @@
 
 <img src ="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=orange"/>&nbsp;
 <img src ="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
-<img src ="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>&nbsp;
 <img src ="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>&nbsp;
@@ -27,17 +26,17 @@
 
 ## Let's connect:
 
-<a href="https://www.twitter.com/haddercone"><img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>&nbsp;</a>
-<a href="https://www.linkedin.com/in/haddercone">
+<a href="https://twitter.com/Prathap_twts"><img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>&nbsp;</a>
+<a href="https://www.linkedin.com/in/prathap-v-751566249/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <br/>
 
 ## My stats:
 
-![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haddercone&show_icons=true&theme=react)
+![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vprathap21&show_icons=true&theme=react)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=haddercone&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vprathap21&theme=radical)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haddercone&layout=compact&theme=radical)](https://github.com/haddercone/github-readme-stats)  -->
 
