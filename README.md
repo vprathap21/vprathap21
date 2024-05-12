@@ -2,9 +2,8 @@
 
 ## About me:
 
-- :man_technologist: I'm a frontend developer.
-- :desktop_computer: I like to create user facing websites using modern web technologies
-- :notebook_with_decorative_cover: Currently I'm learning React..
+- :man_technologist: I'm a Fullstack developer.
+
 
 ## Skills:
 
